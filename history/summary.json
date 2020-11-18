@@ -3,25 +3,25 @@
     "name": "Google",
     "url": "https://www.google.com",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 102
   },
   {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 23
   },
   {
     "name": "Hacker News",
     "url": "https://news.ycombinator.com",
     "slug": "hacker-news",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 172
   },
   {
     "name": "Broken Site",
