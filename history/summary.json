@@ -4,23 +4,23 @@
     "url": "https://doughpizza.org",
     "slug": "dough",
     "status": "up",
-    "uptime": "100.00",
-    "time": 168
+    "uptime": "100.00%",
+    "time": 183
   },
   {
     "name": "Kieran.dev",
     "url": "https://kieran.dev",
     "slug": "kieran-dev",
     "status": "up",
-    "uptime": "100.00",
-    "time": 333
+    "uptime": "100.00%",
+    "time": 315
   },
   {
     "name": "Nitrexdesign.co.uk",
     "url": "https://nitrexdesign.co.uk",
     "slug": "nitrexdesign-co-uk",
     "status": "up",
-    "uptime": "100.00",
-    "time": 231
+    "uptime": "100.00%",
+    "time": 229
   }
 ]
