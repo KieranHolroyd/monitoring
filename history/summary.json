@@ -5,7 +5,7 @@
     "slug": "dough",
     "status": "up",
     "uptime": "100.00%",
-    "time": 161
+    "time": 160
   },
   {
     "name": "Kieran.dev",
@@ -13,7 +13,7 @@
     "slug": "kieran-dev",
     "status": "up",
     "uptime": "100.00%",
-    "time": 275
+    "time": 256
   },
   {
     "name": "Nitrexdesign.co.uk",
@@ -21,6 +21,6 @@
     "slug": "nitrexdesign-co-uk",
     "status": "up",
     "uptime": "100.00%",
-    "time": 215
+    "time": 210
   }
 ]
