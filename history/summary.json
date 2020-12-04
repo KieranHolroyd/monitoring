@@ -5,7 +5,15 @@
     "slug": "dough",
     "status": "up",
     "uptime": "100.00%",
-    "time": 141
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 138,
+    "timeDay": 76,
+    "timeWeek": 102,
+    "timeMonth": 138,
+    "timeYear": 138
   },
   {
     "name": "Kieran.dev",
@@ -13,7 +21,15 @@
     "slug": "kieran-dev",
     "status": "up",
     "uptime": "100.00%",
-    "time": 224
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 219,
+    "timeDay": 129,
+    "timeWeek": 161,
+    "timeMonth": 219,
+    "timeYear": 219
   },
   {
     "name": "Nitrexdesign.co.uk",
@@ -21,6 +37,14 @@
     "slug": "nitrexdesign-co-uk",
     "status": "up",
     "uptime": "100.00%",
-    "time": 205
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 207,
+    "timeDay": 237,
+    "timeWeek": 201,
+    "timeMonth": 207,
+    "timeYear": 207
   }
 ]
