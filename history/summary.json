@@ -40,17 +40,19 @@
     "url": "https://nitrexdesign.co.uk",
     "icon": "https://favicons.githubusercontent.com/nitrexdesign.co.uk",
     "slug": "nitrexdesign-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 275,
-    "timeDay": 233,
-    "timeWeek": 318,
-    "timeMonth": 375,
-    "timeYear": 275,
-    "dailyMinutesDown": {}
+    "time": 340,
+    "timeDay": 3169,
+    "timeWeek": 1041,
+    "timeMonth": 554,
+    "timeYear": 340,
+    "dailyMinutesDown": {
+      "2021-02-12": 0
+    }
   }
 ]
